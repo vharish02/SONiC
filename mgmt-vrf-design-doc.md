@@ -311,3 +311,9 @@ Future Changes For Linux Upgrade
 
     ip vrf exec command will be available in the next linux upgrade when iproute2 utilities will also be upgraded.
 
+Minutes of SONiC-Meeting
+-----------------------
+    - Show commands to follow guidelines
+    - Tacacs+ to work with mgmt-vrf and source ip to be eth0 ip.
+    - Tencent's neighbor table user case.
+    - requirement for supporting 2 mgmt-vrfs.
